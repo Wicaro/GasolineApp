@@ -22,8 +22,8 @@
 
 
 
-- 👨‍💻 Currency Converter made in **Flutter - Dart**.
-
+- 👨‍💻 GasolineApp made in **Flutter - Dart**.
+- App developed for practical purposes, GasolineApp is an app to find out which is the best option for your car, between alcohol and gasoline
 
 
 
