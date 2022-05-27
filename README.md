@@ -3,14 +3,6 @@
  <h2 align="center">Wicaro Mendes - GasolineApp</h2>
 </p>
 <br>
-<p align="center">
- 
-  <a href="https://hgbrasil.com/status/finance">
-      <img src="https://img.shields.io/badge/HGBrasil%20-API%E2%86%92-gray.svg?colorA=45D1FD&colorB=45D1FD&style=for-the-badge"/>
-    </a>
-   
-
-</p>
 
 <p align="center">
 
